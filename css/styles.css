@@ -1,0 +1,60 @@
+body{
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url('../img/background-streetsoccer06-com.jpg');
+    font-family: 'Russo One', sans-serif;
+}
+
+.title{
+    color: #b10000;
+}
+
+a{
+    color: inherit;
+}
+
+.title-info{
+    margin-top: -40px;
+}
+
+.title-info p {
+    margin-left: 108px !important;
+}
+
+.title-info h5 {
+    margin-top: 70px;
+    line-height: 31px;
+}
+
+.container{
+    margin-top: 10vh;
+}
+
+.card{
+    background-color: rgba(0, 0, 0, 0.1);
+    color: #ffffff;
+}
+
+.card-title{
+    font-size: 16px !important;
+}
+
+.collapsible{
+    height: 371px;
+    border: 0;
+}
+
+.social{
+    height: 30px;
+}
+
+.social-media{
+    margin-top: 16px;
+}
+
+.material-icons {
+    color: #b10000;
+    position: relative;
+    top: 6px;
+}
